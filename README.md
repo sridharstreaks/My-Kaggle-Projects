@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Creating portfolio Projects
 - 📫 How to reach me, I'm available on kaggle,linkedin,instagram with the same username.
 
+This is a repo of some of my Data Analysis Jupyter notebooks from Kaggle, Check out all my work in kaggle. Link in my profile.
 !!! Live Plotly plots aren't correctly supported in github. Thus, i request Everyone to look them directly on my kaggle Page !!!
 
 <!---
